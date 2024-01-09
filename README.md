@@ -41,7 +41,7 @@ https://github.com/jetzlstorfer/plattentests-go
 
 
 
-## Co-pilot demo
+## GitHub Copilot demo
 
 <!--
 https://github.com/jetzlstorfer/plattentests-go 
