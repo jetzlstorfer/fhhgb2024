@@ -58,3 +58,5 @@ e.g. adding functions to calculate prime numbers or to print text in a specific 
 
 **Students that liked the session 🥳**
 
+
+❤️ User [@jetzlstorfer](https://github.com/jetzlstorfer) liked the session and rated the repo with a star ⭐
