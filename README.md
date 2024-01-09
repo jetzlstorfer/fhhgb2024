@@ -52,7 +52,7 @@ e.g. adding functions to calculate prime numbers or to print text in a specific 
 
 -->
 
-- [x] What is this code doing?
+- [ ] What is this code doing?
 
 ## GitHub Actions demo
 
