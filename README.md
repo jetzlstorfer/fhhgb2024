@@ -52,6 +52,8 @@ e.g. adding functions to calculate prime numbers or to print text in a specific 
 
 -->
 
+- [x] What is this code doing?
+
 ## GitHub Actions demo
 
 💡 How it works: star the repo ⭐ and your name will show up in the list below.
