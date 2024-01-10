@@ -64,3 +64,5 @@ e.g. adding functions to calculate prime numbers or to print text in a specific 
 
 
 ❤️ User [@awenzelhuemer](https://github.com/awenzelhuemer) liked the session and rated the repo with a star ⭐
+
+❤️ User [@gedlbauer](https://github.com/gedlbauer) liked the session and rated the repo with a star ⭐
