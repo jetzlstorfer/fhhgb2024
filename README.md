@@ -2,7 +2,7 @@
 
 ## Slides
 
-Find the slides here: TODO
+Find the slides here: https://aka.ms/fhhgb2024-slides 
 
 
 ## Dependabot demo
