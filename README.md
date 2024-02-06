@@ -70,3 +70,5 @@ e.g. adding functions to calculate prime numbers or to print text in a specific 
 ❤️ User [@jakobLammel](https://github.com/jakobLammel) liked the session and rated the repo with a star ⭐
 
 ❤️ User [@abdo643-HULK](https://github.com/abdo643-HULK) liked the session and rated the repo with a star ⭐
+
+❤️ User [@der-trucki](https://github.com/der-trucki) liked the session and rated the repo with a star ⭐
